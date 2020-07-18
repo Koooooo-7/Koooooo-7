@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://user-images.githubusercontent.com/33706142/87844474-0d5b1280-c8f0-11ea-9715-fe5d9e5a40d0.gif" align="center" width="100%" height="280px">
 
 <!--
 **Koooooo-7/Koooooo-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
